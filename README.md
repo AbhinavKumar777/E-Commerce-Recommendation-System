@@ -6,7 +6,7 @@ This project implements an **Ecommerce Recommendation System** that suggests pro
 ## 📂 Project Structure
 ```
 ├── Data/
-│   ├── dataset.csv  # Product data
+│   ├── dataset.tsv  # Product data
 ├── Ecommerce recommendation model.ipynb  # Main Jupyter Notebook
 ├── README.md  # Project documentation
 ```
